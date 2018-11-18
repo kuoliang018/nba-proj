@@ -3,6 +3,8 @@
 @import "styles/shotchart.css";
 @import "styles/main.css";
 @import "styles/Profile.css";
+@import '~antd/dist/antd.css';
+@import "styles/DataViewContainer.css";
 body {
   margin: 0;
   padding: 0;
